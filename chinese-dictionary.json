@@ -719,7 +719,7 @@
 	"label.appnav.dashboard.header": "API管理的力量",
 	"label.appnav.dashboard.header.generate.reports": "Analytics",
 	"label.appnav.dashboard.header.get.an.api.key": "Get An API Key",
-	"label.appnav.dashboard.header.learn.more": "Learn more about using the API Portal",
+	"label.appnav.dashboard.header.learn.more": "进一步了解如何使用API Portal",
 	"label.appnav.dashboard.header.test.an.api": "Test An API",
 	"label.appnav.dashboard.href.api.key.how": "publishers/manage-applications",
 	"label.appnav.dashboard.href.consume.api.how": "",
