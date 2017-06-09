@@ -738,7 +738,7 @@
 	"label.appnav.dashboard.link.online.documentation": "online documentation",
 	"label.appnav.dashboard.link.publish.api.how": "How do I publish an API?",
 	"label.appnav.dashboard.link.restrict.access.how": "How do I restrict access to APIs?",
-	"label.appnav.dashboard.link.test.api.how": "How do I test an API?",
+	"label.appnav.dashboard.link.test.api.how": "如何测试API？",
 	"label.appnav.dashboard.link.troubleshoot.how": "How do I troubleshoot?",
 	"label.appnav.dashboard.link.try.api.how": "How do I try an API?",
 	"label.appnav.dashboard.link.work.with.api.keys.how": "How do I get access to an API?",
